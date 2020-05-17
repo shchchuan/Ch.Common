@@ -1,0 +1,11 @@
+D:\Ch.Common\Ch.Common\bin\Debug\Ch.Common.dll
+D:\Ch.Common\Ch.Common\bin\Debug\Ch.Common.pdb
+D:\Ch.Common\Ch.Common\obj\Debug\Ch.Common.csprojAssemblyReference.cache
+D:\Ch.Common\Ch.Common\obj\Debug\Ch.Common.csproj.CoreCompileInputs.cache
+D:\Ch.Common\Ch.Common\obj\Debug\Ch.Common.dll
+D:\Ch.Common\Ch.Common\obj\Debug\Ch.Common.pdb
+D:\Ch.Common\Ch.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Ch.Common\Ch.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Ch.Common\Ch.Common\obj\Debug\Ch.Common.csproj.CopyComplete
+D:\Ch.Common\Ch.Common\bin\Debug\RestSharp.dll
+D:\Ch.Common\Ch.Common\bin\Debug\RestSharp.xml

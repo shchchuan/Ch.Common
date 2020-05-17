@@ -1,0 +1,5 @@
+D:\Ch.Common\Ch.Common\bin\Release\Ch.Common.dll
+D:\Ch.Common\Ch.Common\bin\Release\Ch.Common.pdb
+D:\Ch.Common\Ch.Common\obj\Release\Ch.Common.csproj.CoreCompileInputs.cache
+D:\Ch.Common\Ch.Common\obj\Release\Ch.Common.dll
+D:\Ch.Common\Ch.Common\obj\Release\Ch.Common.pdb
