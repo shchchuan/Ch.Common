@@ -32,6 +32,9 @@
     <BuildPackage>true</BuildPackage>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="LitJSON, Version=0.16.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\LitJson.0.16.0\lib\net45\LitJSON.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -67,6 +70,16 @@
     <Compile Include="WeChat\Model\WeiXinUserModel.cs" />
     <Compile Include="WeChat\SeniorService.cs" />
     <Compile Include="WeChat\WeChatSignHelper.cs" />
+    <Compile Include="WxPay\HttpService.cs" />
+    <Compile Include="WxPay\JsApiPay.cs" />
+    <Compile Include="WxPay\RandomGenerator.cs" />
+    <Compile Include="WxPay\SafeXmlDocument.cs" />
+    <Compile Include="WxPay\WxConfig.cs" />
+    <Compile Include="WxPay\WxPayApi.cs" />
+    <Compile Include="WxPay\WxPayData.cs" />
+    <Compile Include="WxPay\WxPayException.cs" />
+    <Compile Include="WxPay\WxPayNotify.cs" />
+    <Compile Include="WxPay\WxPrePayData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

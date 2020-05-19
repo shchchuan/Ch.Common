@@ -9,3 +9,15 @@ D:\Ch.Common\Ch.Common\bin\Debug\Ch.Utility.dll
 D:\Ch.Common\Ch.Common\bin\Debug\Ch.Utility.pdb
 D:\Ch.Common\Ch.Common\obj\Debug\Ch.Utility.dll
 D:\Ch.Common\Ch.Common\obj\Debug\Ch.Utility.pdb
+E:\GitHub\Ch.Utility\Ch.Utility\obj\Debug\Ch.Utility.csprojAssemblyReference.cache
+E:\GitHub\Ch.Utility\Ch.Utility\obj\Debug\Ch.Utility.csproj.CoreCompileInputs.cache
+E:\GitHub\Ch.Utility\Ch.Utility\obj\Debug\Ch.Utility.dll
+E:\GitHub\Ch.Utility\Ch.Utility\obj\Debug\Ch.Utility.pdb
+E:\GitHub\Ch.Utility\Ch.Utility\bin\Debug\Ch.Utility.dll
+E:\GitHub\Ch.Utility\Ch.Utility\bin\Debug\Ch.Utility.pdb
+E:\GitHub\Ch.Utility\Ch.Utility\bin\Debug\LitJSON.dll
+E:\GitHub\Ch.Utility\Ch.Utility\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\Ch.Utility\Ch.Utility\bin\Debug\RestSharp.dll
+E:\GitHub\Ch.Utility\Ch.Utility\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\Ch.Utility\Ch.Utility\bin\Debug\RestSharp.xml
+E:\GitHub\Ch.Utility\Ch.Utility\obj\Debug\Ch.Utility.csproj.CopyComplete
